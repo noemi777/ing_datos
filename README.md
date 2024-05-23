@@ -1,5 +1,4 @@
 # REPOSITORIO PARA INGENERÍA DE DATOS :desktop_computer: :bar_chart:
-### Por Noemi Copalcua
 
 El siguiente repositorio contiene ejercicios de algoritmos en PSeInt, ejercicios en bash y proximamente en Python.
 
